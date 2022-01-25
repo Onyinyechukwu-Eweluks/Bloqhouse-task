@@ -19,7 +19,7 @@ function Home() {
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50"
             >
               <button className="ml-3 w-32 h-14 box-border border-2 hover:bg-sky-400 rounded-md border-sky-400 my-4 cursor-pointer">
-                Projects
+                View Projects
               </button>
             </Link>
           </div>
