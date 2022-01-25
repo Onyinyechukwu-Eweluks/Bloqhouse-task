@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Countryside house",
+      "location": "Amsterdam",
+      "totalValue": 500000,
+      "totalShares": 1000,
+      "availableShares": 539,
+      "img": "https://source.unsplash.com/yFV39g6AZ5o",
+      "description": "Countryside house built in the 1980s"
+    },
+    {
+      "id": 2,
+      "name": "Modern two-storey apartment",
+      "location": "London",
+      "totalValue": 750000,
+      "totalShares": 5000,
+      "availableShares": 607,
+      "img": "https://source.unsplash.com/yFV39g6AZ5o",
+      "description": "Contemporary architecture located in the outskirts of London"
+    },
+    {
+      "id": 3,
+      "name": "House with pool",
+      "location": "Barcelona",
+      "totalValue": 1200000,
+      "totalShares": 100000,
+      "availableShares": 0,
+      "img": "https://source.unsplash.com/2d4lAQAlbDA",
+      "description": "Summer house with lavish pool"
+    },
+    {
+      "id": 4,
+      "name": "Village house",
+      "location": "Amsterdam",
+      "totalValue": 275000,
+      "totalShares": 1000,
+      "availableShares": 872,
+      "img": "https://source.unsplash.com/2d4lAQAlbDA",
+      "description": "Cozy cottage with remote location. Optimal for families"
+    }
+  ]
+}

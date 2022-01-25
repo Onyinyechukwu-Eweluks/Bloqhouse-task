@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "School science equipment",
+      "category": "Charity",
+      "projectGoal": 650000,
+      "totalSlots": 10000,
+      "availableSlots": 2450,
+      "img": "https://source.unsplash.com/gKUC4TMhOiY",
+      "description": "Provide microscopes for 10 schools in Africa"
+    },
+    {
+      "id": 2,
+      "name": "Educational robotics",
+      "category": "Tech",
+      "projectGoal": 250000,
+      "totalSlots": 5000,
+      "availableSlots": 2890,
+      "img": "https://source.unsplash.com/5Bo6OfopSi0",
+      "description": "Learning material and hardware for high schools teaching the basics of robotics"
+    },
+    {
+      "id": 3,
+      "name": "DIY workshops",
+      "category": "DIY",
+      "projectGoal": 150000,
+      "totalSlots": 150000,
+      "availableSlots": 0,
+      "img": "https://source.unsplash.com/9OKGEVJiTKk",
+      "description": "Organising workshops in the local community house for visually impaired people"
+    },
+    {
+      "id": 4,
+      "name": "VR architecture tours",
+      "category": "Tech",
+      "projectGoal": 500000,
+      "totalSlots": 1000,
+      "availableSlots": 872,
+      "img": "https://source.unsplash.com/NN9HQkDgguc",
+      "description": "Take virtual tours around the most famous buildings in the world"
+    }
+  ]
+}
